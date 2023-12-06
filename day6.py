@@ -21,7 +21,6 @@ distancep2 = int(data[1][data[1].index(':') + 1:].replace(' ',''))
 
 
 
-#Just some good old brute force
 res = 1
 test = []
 for i in range(len(time)):
